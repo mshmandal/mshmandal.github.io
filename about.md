@@ -1,21 +1,8 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
-![](/img/mshmandal.png)
-
 ### Mohammad Shamim Hasan Mandal, Ph.D.
-> [Google Scholar](https://scholar.google.co.jp/citations?user=DzkOfcEAAAAJ&hl=en&oi=ao) profile· 
-> My [Github](https://mshmandal.github.io/) page.
-
-
-Hello, welcome to my personal blog. Currently I am working as a postdoctoral researcher at Hiroshima University.
-
-My research interests:
-   - Forest ecology particularly the impact of various disturbances
-   - Long term Land use land cover (LULC) changes
-
 
 ### Current affiliation
 Assistant Technical Staff <br>
@@ -23,8 +10,6 @@ Graduate School of Advanced Science and Engineering <br>
 Hiroshima University<br>
 1-5-1 Kagamiyama, Higashi-Hiroshima<br>
 Hiroshima, Japan 739-8529 
-
-
 
 ### Education
 - 2017 - 2020 Doctor of Agriculture, Department of Development Technology, Graduate School for International Development and Cooperation (IDEC), Hiroshima University, Japan 739-8529. 
