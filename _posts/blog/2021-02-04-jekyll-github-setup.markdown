@@ -7,6 +7,8 @@ permalink: "/:categories/:title/"
 ---
 
 GitHub pages are nice very easy to build and easy to handle with. You can serve your repository, project page as like webpage. For this, GitHub takes any markdown or html file and serves as individual pages. More on that details later. First let us move forward and make our first GitHub page. 
+
+
 >We will use Jekyll to setup up our *username.github.io*
 
 ### Step 1 : Create a new repository

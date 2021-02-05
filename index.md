@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![](/img/mshmandal.png)
+![](/assets/images/mshmandal.png)
 
 Hello, welcome to my blog. I am Mohamamd Shamim Hasan Mandal welcome to my personal blog. Currently I am working as a postdoctoral researcher at Hiroshima University.
 
