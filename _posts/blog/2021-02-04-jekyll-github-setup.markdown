@@ -3,6 +3,7 @@ layout: post
 title:  "How to set up your GitHub page with Jekyll"
 date:   2021-02-04 00:23:23 +0900
 categories: jekyll github
+permalink: "/:categories/:title/"
 ---
 
 GitHub pages are nice very easy to build and easy to handle with. You can serve your repository, project page as like webpage. For this, GitHub takes any markdown or html file and serves as individual pages. More on that details later. First let us move forward and make our first GitHub page. 

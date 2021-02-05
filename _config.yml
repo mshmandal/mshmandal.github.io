@@ -7,11 +7,23 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mshmandal
 github_username:  mshmandal
-
+show_excerpts: true
 # Build settings
+markdown: kramdown
+
 theme: minima
 plugins:
   - jekyll-feed
+
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "posts"
+    values:
+          layout: "post"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
