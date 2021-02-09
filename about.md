@@ -31,22 +31,8 @@ Supervisor: Tetsuro Hosaka, Ph.D.
 
 - 2011 - 2012 Research Assistant, Department of Agronomy, Faculty of Agriculture, Sher-e-Bangla Agricultural University, Sher-e-Bangla Nagar, Dhaka-1207, Bangladesh.
 
-### Research experience
-- 2017-2020	Hiroshima University, Department of Development Technology, Hiroshima, Japan.
-Doctoral study. 
-
-   - Phenology of Sundarbans mangrove forests: Examined seasonal changes in canopy greenness of the Sundarbans mangrove forest, using 18-year (2001-2018) Moderate Resolution Imaging Spectroradiometer (MODIS) images performed time-series Fourier analysis. The results of this study provide baseline information for future phenological changes in the Sundarbans.
-
-   - Forest disturbance in Sundarbans mangrove forests: Assessed forest disturbances caused by cyclones in the Sundarbans mangrove forests during 1988-2016 (including 21 cyclones) using Landsat images and Google Earth Engine (GEE). Based on a 29-year dataset, I found that wind speed of cyclones was the most influential parameter to forest disturbance than other cyclone parameters, but only instrumental if it exceeded 101.9 kmh-1. Since previous studies solely focused on a few cyclones, these results based on 21 cyclones are the first to report the general pattern of forest disturbance caused by cyclones.
-
-- 2014-2015	Scientific Officer, Crop Intensification (2014 – 2015). Bangladesh Agricultural Research Institute (BARI), RARS, Hathazari, Bangladesh. 
-   - Hill agriculture research and training: Worked as a Scientific Officer in the most rural hilly district of Bangladesh. A total of 13 ethnic minorities dominate the area, and my major responsibilities included leading and monitoring field research, and occasional training of local people on sustainable farming. 
-
-- 2011-2012	Research Assistant (RA) (2011 – 2012). Sher-e-Bangla Agricultural University, Department of Agronomy, Dhaka, Bangladesh.
-   - Field agricultural research: Conducted field research on agronomic crops including rice, wheat etc. Primary responsibilities included leading and monitoring field experiments.
-
-
 ### Awards/ Scholarships/ Grants
+
 - Awards
    - 2020	ESA Meeting Registration Grant from ESA Asian Ecology Section, for 105th Annual meeting of the Ecological Society of America, Utah, USA, 2020.
    - 2019	English Presentation Award - Excellent Award, Awarded at the 66th general meeting of the Ecological Society of Japan, Kobe, Japan.

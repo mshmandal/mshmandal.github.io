@@ -1,6 +1,6 @@
 # Site configuration
 title: Blog of MSH Mandal
-email: mshmandal.github.io
+#email: mshmandal.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog of Mohammad Shamim Hasan Mandal
 baseurl: "" # the subpath of your site, e.g. /blog
