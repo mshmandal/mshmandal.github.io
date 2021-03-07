@@ -13,6 +13,6 @@ My research interests:
 
 > [Google Scholar](https://scholar.google.co.jp/citations?user=DzkOfcEAAAAJ&hl=en&oi=ao) profile· 
 
-> Checkout my [Github](https://mshmandal.github.io/) page.
+> Checkout my [Github](https://github.com/mshmandal) page.
 
 
