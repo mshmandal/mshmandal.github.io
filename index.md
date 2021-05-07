@@ -13,6 +13,8 @@ My research interests:
 
 > [Google Scholar](https://scholar.google.co.jp/citations?user=DzkOfcEAAAAJ&hl=en&oi=ao) profile· 
 
+> [ORCID iD](https://orcid.org/0000-0002-2696-0021) 
+ 
 > Checkout my [Github](https://github.com/mshmandal) page.
 
 
